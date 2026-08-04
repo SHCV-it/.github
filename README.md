@@ -63,7 +63,7 @@ region, or fully air-gapped.
 | **Stimna** | Secure transcription and meeting summarisation, run locally. Speaker identification and structured, actionable minutes in real time. |
 | **Tianlu** | The company brain. Unifies scattered documents into one conversational search and answers from your own knowledge, with citations. |
 | **LLMeister** | Model management for locally hosted AI — the control plane for your own inference stack. |
-| **Gnosis** | Crawls entire websites and converts every page into clean, LLM-ready Markdown. |
+| **[Gnosis](https://github.com/SHCV-it/gnosis)** | Crawls entire websites and converts every page into clean, LLM-ready Markdown. Open source. |
 
 <div align="center"><a href="https://calrs.dev.shcv.it/u/admin-calrs/intro"><b>→ Talk to us about any of them</b></a></div>
 
