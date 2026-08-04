@@ -73,6 +73,7 @@ Tools we built for ourselves and kept in the open.
 
 | Repository | What it is | |
 |---|---|---|
+| [**gnosis**](https://github.com/SHCV-it/gnosis) | Crawls entire websites and converts every page into clean, LLM-ready Markdown. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MIT](https://img.shields.io/badge/MIT-green?style=flat-square) |
 | [**ariadne**](https://github.com/SHCV-it/ariadne) | A learning tab-completion brain for the kitty terminal. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | [**psm-cost-per-project-plugin**](https://github.com/SHCV-it/psm-cost-per-project-plugin) | Pi Session Manager plugin that calculates token cost per project. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MIT](https://img.shields.io/badge/MIT-green?style=flat-square) |
 
